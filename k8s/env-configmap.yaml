@@ -4,7 +4,7 @@ metadata:
   name: configuration-values
 data:
   POSTGRES_DB: postgres
-  POSTGRES_HOST: thangtq14-db.cuxlgg8sq1qo.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: postgres.ceagpzho9lh5.us-east-1.rds.amazonaws.com
 
   AWS_REGION: us-east-1
   AWS_PROFILE: default
