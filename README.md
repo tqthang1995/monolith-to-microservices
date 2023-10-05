@@ -4,9 +4,7 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 The project is split into two parts:
 1. Frontend - Angular web application built with Ionic Framework
-    URL: http://a3ae27e91f0754ef6bdfe1b1bb25c77b-888398577.us-east-1.elb.amazonaws.com/
 2. Backend RESTful API - Node-Express application
-    URL: http://a883018b5710d42f29b1276103fce207-1161143422.us-east-1.elb.amazonaws.com:8080/
     
 ## Getting Started
 > _tip_: it's recommended that you start with getting the backend API running since the frontend web application depends on the API.
