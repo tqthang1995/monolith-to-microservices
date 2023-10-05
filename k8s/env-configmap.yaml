@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: configuration-values
+data:
+  POSTGRES_DB: postgres
+  POSTGRES_HOST: tandev2k-db.cuxlgg8sq1qo.us-east-1.rds.amazonaws.com
+
+  AWS_REGION: us-east-1
+  AWS_PROFILE: default
+  AWS_BUCKET: tandev2k-s3
+
+  URL: http://localhost:8100
