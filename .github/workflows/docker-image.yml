@@ -42,4 +42,4 @@ jobs:
           docker push thangtq14/reverseproxy:v1
           docker push thangtq14/udagram-api-feed:v1
           docker push thangtq14/udagram-api-user:v1
-          docker push thangtq14/udagram-frontend:v1
+          docker push thangtq14/udagram-frontend:v2
