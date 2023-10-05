@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: reverseproxy
-          image: tandev2k/reverseproxy:v3
+          image: thangtq14/reverseproxy:v1
           imagePullPolicy: Always
           resources:
             requests:
