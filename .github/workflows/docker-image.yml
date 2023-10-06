@@ -35,11 +35,11 @@ jobs:
           docker tag udagram-reverseproxy thangtq14/reverseproxy:v1
           docker tag udagram-api-feed thangtq14/udagram-api-feed:v1
           docker tag udagram-api-user thangtq14/udagram-api-user:v1
-          docker tag udagram-frontend thangtq14/udagram-frontend:v2
+          docker tag udagram-frontend thangtq14/udagram-frontend:v3
       
       - name: Push Docker image
         run: |
           docker push thangtq14/reverseproxy:v1
           docker push thangtq14/udagram-api-feed:v1
           docker push thangtq14/udagram-api-user:v1
-          docker push thangtq14/udagram-frontend:v2
+          docker push thangtq14/udagram-frontend:v3
